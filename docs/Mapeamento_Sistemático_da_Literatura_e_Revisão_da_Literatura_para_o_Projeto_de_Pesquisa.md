@@ -162,7 +162,7 @@ Portanto, a análise comparativa proposta neste trabalho busca explorar as poten
 
 #### Artigo 12:
 
-**Título**: New and Improved Search Algorithms and Precise Analysis of Their Average Case Complexity
+**Título**: [New and Improved Search Algorithms and Precise Analysis of Their Average Case Complexity](https://github.com/diogomasc/TCC_1/blob/main/docs/Mapeamento_Sistem%C3%A1tico_da_Literatura_e_Revis%C3%A3o_da_Literatura_para_o_Projeto_de_Pesquisa.md#artigo-12-new-and-improved-search-algorithms-and-precise-analysis-of-their-average-case-complexity)
 
 **Autoria**: Şahin Emrah Amrahov, Adnan Saher Mohammed, Fatih V. Çelebi
 
