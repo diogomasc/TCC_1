@@ -52,7 +52,7 @@ Portanto, a análise comparativa proposta neste trabalho busca explorar as poten
 
 #### Artigo 1:
 
-**Título**: A parallelization model for performance characterization of Spark Big Data jobs on Hadoop clusters
+**Título**: [A parallelization model for performance characterization of Spark Big Data jobs on Hadoop clusters](https://github.com/diogomasc/TCC_1/blob/main/docs/Mapeamento_Sistem%C3%A1tico_da_Literatura_e_Revis%C3%A3o_da_Literatura_para_o_Projeto_de_Pesquisa.md#artigo-1-a-parallelization-model-for-performance-characterization-of-spark-big-data-jobs-on-hadoop-clusters)
 
 **Autoria**: N. Ahmed, Andre L. C. Barczak, Mohammad A. Rashid, Teo Susnjak
 
@@ -62,7 +62,7 @@ Portanto, a análise comparativa proposta neste trabalho busca explorar as poten
 
 #### Artigo 2:
 
-**Título**: Advanced Optimization of Fundamental Searching and Sorting Algorithms
+**Título**: [Advanced Optimization of Fundamental Searching and Sorting Algorithms](https://github.com/diogomasc/TCC_1/blob/main/docs/Mapeamento_Sistem%C3%A1tico_da_Literatura_e_Revis%C3%A3o_da_Literatura_para_o_Projeto_de_Pesquisa.md#artigo-2-advanced-optimization-of-fundamental-searching-and-sorting-algorithms)
 
 **Autoria**: Jasrat Singh
 
@@ -72,7 +72,7 @@ Portanto, a análise comparativa proposta neste trabalho busca explorar as poten
 
 #### Artigo 3:
 
-**Título**: A Scalable Distributed Parallel Breadth First Search Algorithm on BlueGene L
+**Título**: [A Scalable Distributed Parallel Breadth First Search Algorithm on BlueGene L](https://github.com/diogomasc/TCC_1/blob/main/docs/Mapeamento_Sistem%C3%A1tico_da_Literatura_e_Revis%C3%A3o_da_Literatura_para_o_Projeto_de_Pesquisa.md#artigo-3-a-scalable-distributed-parallel-breadth-first-search-algorithm-on-bluegene-l)
 
 **Autoria**: Andy Yoo, Edmond Chow, Keith Henderson, William McLendon, Bruce Hendrickson, Umit Catalyurek
 
@@ -82,7 +82,7 @@ Portanto, a análise comparativa proposta neste trabalho busca explorar as poten
 
 #### Artigo 4:
 
-**Título**: Algoritmos e Modelos de Programação em Big Data
+**Título**: [Algoritmos e Modelos de Programação em Big Data](https://github.com/diogomasc/TCC_1/blob/main/docs/Mapeamento_Sistem%C3%A1tico_da_Literatura_e_Revis%C3%A3o_da_Literatura_para_o_Projeto_de_Pesquisa.md#artigo-4-algoritmos-e-modelos-de-programa%C3%A7%C3%A3o-em-big-data)
 
 **Autoria**: Fabio Porto
 
@@ -92,7 +92,7 @@ Portanto, a análise comparativa proposta neste trabalho busca explorar as poten
 
 #### Artigo 5:
 
-**Título**: Avaliação de Desempenho entre Algoritmos Distribuídos para Mineração de Itens Frequentes no Apache Spark
+**Título**: [Avaliação de Desempenho entre Algoritmos Distribuídos para Mineração de Itens Frequentes no Apache Spark](https://github.com/diogomasc/TCC_1/blob/main/docs/Mapeamento_Sistem%C3%A1tico_da_Literatura_e_Revis%C3%A3o_da_Literatura_para_o_Projeto_de_Pesquisa.md#artigo-5-avaliacao-de-desempenho-entre-algoritmos-distribuidos-para-mineracao-de-itens-frequentes-no-apache-spark)
 
 **Autoria**: Felipe Alfredo Kunzler
 
@@ -102,7 +102,7 @@ Portanto, a análise comparativa proposta neste trabalho busca explorar as poten
 
 #### Artigo 6:
 
-**Título**: Building a Large Scale Microscopic Road Network Traffic Simulator in Apache Spark
+**Título**: [Building a Large Scale Microscopic Road Network Traffic Simulator in Apache Spark](https://github.com/diogomasc/TCC_1/blob/main/docs/Mapeamento_Sistem%C3%A1tico_da_Literatura_e_Revis%C3%A3o_da_Literatura_para_o_Projeto_de_Pesquisa.md#artigo-6-building-a-large-scale-microscopic-road-network-traffic-simulator-in-apache-spark)
 
 **Autoria**: Zishan Fu, Jia Yu, Mohamed Sarwat
 
@@ -112,7 +112,7 @@ Portanto, a análise comparativa proposta neste trabalho busca explorar as poten
 
 #### Artigo 7:
 
-**Título**: Comparative Analysis of Sorting and Searching Algorithms
+**Título**: [Comparative Analysis of Sorting and Searching Algorithms](https://github.com/diogomasc/TCC_1/blob/main/docs/Mapeamento_Sistem%C3%A1tico_da_Literatura_e_Revis%C3%A3o_da_Literatura_para_o_Projeto_de_Pesquisa.md#artigo-7-comparative-analysis-of-sorting-and-searching-algorithms)
 
 **Autoria**: Muqarrab Qureshi, Danish Surve, Piyush Waghela, Nidhi Sakpal
 
@@ -122,7 +122,7 @@ Portanto, a análise comparativa proposta neste trabalho busca explorar as poten
 
 #### Artigo 8:
 
-**Título**: Desenvolvimento e Avaliação de Desempenho de um Cluster Raspberry Pi e Apache Hadoop em Aplicações Big Data
+**Título**: [Desenvolvimento e Avaliação de Desempenho de um Cluster Raspberry Pi e Apache Hadoop em Aplicações Big Data](https://github.com/diogomasc/TCC_1/blob/main/docs/Mapeamento_Sistem%C3%A1tico_da_Literatura_e_Revis%C3%A3o_da_Literatura_para_o_Projeto_de_Pesquisa.md#artigo-8-desenvolvimento-e-avalia%C3%A7%C3%A3o-de-desempenho-de-um-cluster-raspberry-pi-e-apache-hadoop-em-aplica%C3%A7%C3%B5es-big-data)
 
 **Autoria**: Antônio José Alves Neto
 
@@ -132,7 +132,7 @@ Portanto, a análise comparativa proposta neste trabalho busca explorar as poten
 
 #### Artigo 9:
 
-**Título**: Distributed Cloud Computing and Distributed Parallel Computing A Review
+**Título**: [Distributed Cloud Computing and Distributed Parallel Computing A Review](https://github.com/diogomasc/TCC_1/blob/main/docs/Mapeamento_Sistem%C3%A1tico_da_Literatura_e_Revis%C3%A3o_da_Literatura_para_o_Projeto_de_Pesquisa.md#artigo-9-distributed-cloud-computing-and-distributed-parallel-computing-a-review)
 
 **Autoria**: Zryan Najat Rashid, Subhi R. M. Zebari, Karzan Hussein Sharif, Karwan Jacksi
 
@@ -142,7 +142,7 @@ Portanto, a análise comparativa proposta neste trabalho busca explorar as poten
 
 #### Artigo 10:
 
-**Título**: Distributed Searching of Multi Dimensional Data A Performance Evaluation Study
+**Título**: [Distributed Searching of Multi Dimensional Data A Performance Evaluation Study](https://github.com/diogomasc/TCC_1/blob/main/docs/Mapeamento_Sistem%C3%A1tico_da_Literatura_e_Revis%C3%A3o_da_Literatura_para_o_Projeto_de_Pesquisa.md#artigo-10-distributed-searching-of-multi-dimensional-data-a-performance-evaluation-study)
 
 **Autoria**: Enrico Nardelli, Fabio Barillari, Massimo Pepe
 
@@ -152,7 +152,7 @@ Portanto, a análise comparativa proposta neste trabalho busca explorar as poten
 
 #### Artigo 11:
 
-**Título**: Modeling and Simulation of Spark Streaming
+**Título**: [Modeling and Simulation of Spark Streaming](https://github.com/diogomasc/TCC_1/blob/main/docs/Mapeamento_Sistem%C3%A1tico_da_Literatura_e_Revis%C3%A3o_da_Literatura_para_o_Projeto_de_Pesquisa.md#artigo-11-modeling-and-simulation-of-spark-streaming)
 
 **Autoria**: Jia-Chun Lin, Ming-Chang Lee, Ingrid Chieh Yu, Einar Broch Johnsen
 
@@ -172,7 +172,7 @@ Portanto, a análise comparativa proposta neste trabalho busca explorar as poten
 
 #### Artigo 13:
 
-**Título**: Otimização de Desempenho em Processamento de Consultas MapReduce
+**Título**: [Otimização de Desempenho em Processamento de Consultas MapReduce](https://github.com/diogomasc/TCC_1/blob/main/docs/Mapeamento_Sistem%C3%A1tico_da_Literatura_e_Revis%C3%A3o_da_Literatura_para_o_Projeto_de_Pesquisa.md#artigo-13-otimiza%C3%A7%C3%A3o-de-desempenho-em-processamento-de-consultas-mapreduce)
 
 **Autoria**: Ivan Luiz Picoli, Leandro Batista de Almeida, Eduardo Cunha de Almeida
 
@@ -182,7 +182,7 @@ Portanto, a análise comparativa proposta neste trabalho busca explorar as poten
 
 #### Artigo 14:
 
-**Título**: Parallel Search Algorithms for Discrete Optimization Problems
+**Título**: [Parallel Search Algorithms for Discrete Optimization Problems](https://github.com/diogomasc/TCC_1/blob/main/docs/Mapeamento_Sistem%C3%A1tico_da_Literatura_e_Revis%C3%A3o_da_Literatura_para_o_Projeto_de_Pesquisa.md#artigo-14-parallel-search-algorithms-for-discrete-optimization-problems)
 
 **Autoria**: Ananth Grama, Vipin Kumar
 
@@ -192,7 +192,7 @@ Portanto, a análise comparativa proposta neste trabalho busca explorar as poten
 
 #### Artigo 15:
 
-**Título**: Performance evaluation of parallel multithreaded A\* heuristic search algorithm
+**Título**: [Performance evaluation of parallel multithreaded A\* heuristic search algorithm](https://github.com/diogomasc/TCC_1/blob/main/docs/Mapeamento_Sistem%C3%A1tico_da_Literatura_e_Revis%C3%A3o_da_Literatura_para_o_Projeto_de_Pesquisa.md#artigo-15-performance-evaluation-of-parallel-multithreaded-a-heuristic-search-algorithm)
 
 **Autoria**: Basel A. Mahafzah
 
@@ -202,7 +202,7 @@ Portanto, a análise comparativa proposta neste trabalho busca explorar as poten
 
 #### Artigo 16:
 
-**Título**: Performance Tuning and Evaluation of Iterative Algorithms in Spark
+**Título**: [Performance Tuning and Evaluation of Iterative Algorithms in Spark](https://github.com/diogomasc/TCC_1/blob/main/docs/Mapeamento_Sistem%C3%A1tico_da_Literatura_e_Revis%C3%A3o_da_Literatura_para_o_Projeto_de_Pesquisa.md#artigo-16-performance-tuning-and-evaluation-of-iterative-algorithms-in-spark)
 
 **Autoria**: Janani Gururam
 
@@ -212,7 +212,7 @@ Portanto, a análise comparativa proposta neste trabalho busca explorar as poten
 
 #### Artigo 17:
 
-**Título**: Survey on High Performance Analytics of Bigdata with Apache Spark
+**Título**: [Survey on High Performance Analytics of Bigdata with Apache Spark](https://github.com/diogomasc/TCC_1/blob/main/docs/Mapeamento_Sistem%C3%A1tico_da_Literatura_e_Revis%C3%A3o_da_Literatura_para_o_Projeto_de_Pesquisa.md#artigo-17-survey-on-high-performance-analytics-of-bigdata-with-apache-spark)
 
 **Autoria**: Ramkrushna C. Maheshwar, D. Haritha
 
