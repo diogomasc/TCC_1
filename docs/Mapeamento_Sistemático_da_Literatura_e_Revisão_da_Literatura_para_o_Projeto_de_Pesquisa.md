@@ -236,9 +236,7 @@ Na pesquisa, "**A parallelization model for performance characterization of Spar
 
 Os autores realizaram uma comparação entre a precisão do **modelo proposto**, da **Lei de Amdahl** e da **Lei de Gustafson** na previsão do tempo de execução para cada workload. Utilizando um cluster Hadoop com 10 nós, com detalhes de hardware especificados no artigo, executaram os workloads do HiBench em diferentes configurações de executores. Foi concluído que o **modelo proposto** **atinge o melhor ajuste na maioria dos workloads e tamanhos de dados**, sendo mais preciso que as Leis de Amdahl e Gustafson em cenários onde o tempo de execução **apresenta um pico de performance para um número específico de executores**, depois crescendo com o aumento de executores. O modelo, porém, **apresenta menor precisão em workloads com tempos de execução muito curtos** (poucos segundos) e **o modelo 2D se limita à variação do número de executores**, não considerando outros parâmetros do Spark ou do cluster. Apesar das limitações, o modelo oferece uma **ferramenta simples e eficiente para prever o tempo de execução** de trabalhos Spark, auxiliando na escolha do número ideal de executores para um determinado tamanho de problema. A pesquisa contribui para o **entendimento do impacto da paralelização no desempenho de aplicações Spark**, com potencial para otimizar a utilização de recursos em clusters Hadoop.
 
-<div align="right">
-  [Voltar para Lista de Artigos/Trablahos Selecionados](https://github.com/diogomasc/TCC_1/blob/main/docs/Mapeamento_Sistem%C3%A1tico_da_Literatura_e_Revis%C3%A3o_da_Literatura_para_o_Projeto_de_Pesquisa.md#33-lista-de-artigostrabalhos-selecionados)
-</div>
+[Voltar para Lista de Artigos/Trablahos Selecionados](https://github.com/diogomasc/TCC_1/blob/main/docs/Mapeamento_Sistem%C3%A1tico_da_Literatura_e_Revis%C3%A3o_da_Literatura_para_o_Projeto_de_Pesquisa.md#33-lista-de-artigostrabalhos-selecionados)
 
 #### Artigo 2: Advanced Optimization of Fundamental Searching and Sorting Algorithms
 
